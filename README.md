@@ -1,2 +1,2 @@
 # widget-title
-replacing the widget title for for facebook-instagram groups 
+replacing the widget title for facebook-instagram groups 
